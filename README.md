@@ -137,3 +137,6 @@ sns.histplot(x='Age',data=dfc)
 <img src="https://github.com/Janarthanan2/ODD2023-DataScience-Ex-03/assets/119393515/22de1e7f-d39c-42d4-8232-153e2ba16076" width="350" height="350">
 <img src="https://github.com/Janarthanan2/ODD2023-DataScience-Ex-03/assets/119393515/b98a5bee-f4e5-4177-99c5-ae7ec678a9d3" width="350" height="350">
 <img src="https://github.com/Janarthanan2/ODD2023-DataScience-Ex-03/assets/119393515/05d40b9d-5540-4879-8134-542426d51692" width="350" height="350">
+
+# RESULT
+Thus, We have read the given data and performed the univariate analysis with different types of plots.
